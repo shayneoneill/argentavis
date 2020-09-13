@@ -1,8 +1,8 @@
-# argentavis
+# Argentavis
 An asset server for creative industries
 
 Not ready to use yet, at all.
 
-#requirements
+# Requirements
 * Django
 * Transcoding tools to be decided
